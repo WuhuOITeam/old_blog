@@ -31,7 +31,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wuhuoiteam.github.io/back/20240405/</loc>
+         <lastmod>2024-04-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wuhuoiteam.github.io/basic/history/</loc>
+         <lastmod>2024-04-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wuhuoiteam.github.io/rules/group/</loc>
+         <lastmod>2024-04-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wuhuoiteam.github.io/rules/owner/</loc>
          <lastmod>2024-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
