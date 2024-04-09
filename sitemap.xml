@@ -51,6 +51,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wuhuoiteam.github.io/back/20240409/</loc>
+         <lastmod>2024-04-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wuhuoiteam.github.io/basic/20240406%E4%BA%8B%E5%8F%98/</loc>
          <lastmod>2024-04-09</lastmod>
          <changefreq>daily</changefreq>
@@ -62,6 +67,11 @@
     </url>
     <url>
          <loc>https://wuhuoiteam.github.io/basic/%E6%96%B0%E7%94%A8%E6%88%B7%E5%BF%85%E8%AF%BB/</loc>
+         <lastmod>2024-04-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wuhuoiteam.github.io/rules/</loc>
          <lastmod>2024-04-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
