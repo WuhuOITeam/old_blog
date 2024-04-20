@@ -14,7 +14,30 @@ copyright: 'Copyright &copy; 2024 - 2024 WOT'
 
 # Contents
 nav:
-
+  - 主页: index.md
+  - 信息: 
+    - 新用户必读: basic/新用户必读.md 
+    - 前世今生: basic/history.md
+    - TPCpp事变: basic/20240406事变.md
+  - 规则:
+    - 首页: rules/index.md
+    - 公开团主: rules/owner.md
+    - 小组规则: rules/group.md
+    - 管理员守则: rules/admin.md
+    - 大管理: rules/sadmin.md
+  - 文件存档:
+    - 20240203文件: back/20240203.md
+    - 20240204文件: back/20240204.md
+    - 20240205文件: back/20240205.md
+    - 20240209文件: back/20240209.md
+    - 20240224文件: back/20240224.md
+    - 20240405文件: back/20240405.md
+    - 20240406文件: back/20240406.md
+    - 20240406文件II: back/20240406II.md
+    - 20240407文件: back/20240407.md
+    - 20240409文件: back/20240409.md
+    - 20240410文件: back/20240410.md
+    - 20240412文件: back/20240412.md
 # Theme
 theme:
   name: material
@@ -56,7 +79,7 @@ plugins: []
 
 # Customization
 extra:
-  disqus: 'OI-Wiki'
+  disqus: 'WOT'
   copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">CC BY-SA 4.0</a> 和 <a href="https://github.com/zTrix/sata-license">SATA</a>'
   pagetime: 'on'
   manifest: 'manifest.webmanifest'
