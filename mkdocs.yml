@@ -22,9 +22,15 @@ nav:
   - 规则:
     - 首页: rules/index.md
     - 公开团主: rules/owner.md
-    - 小组规则: rules/group.md
+    - 日报渐渐: rules/daily-post.md
+    - 小组规则(现无规则): rules/group.md
     - 管理员守则: rules/admin.md
     - 大管理: rules/sadmin.md
+  - 日报:
+    - 首页: rules/index.md
+    - 2024日报:
+      - 第1期: daily/2024/1.md
+    
   - 文件存档:
     - 20240203文件: back/20240203.md
     - 20240204文件: back/20240204.md

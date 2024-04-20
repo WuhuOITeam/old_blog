@@ -8,7 +8,7 @@ WOT 的发展十分坎坷. 最初, [前WOT](https://www.luogu.com.cn/team/56436)
 
 常用链接:
 
-[现团](https://www.luogu.com.cn/team/77751)|[主团-已被侵略-禁止加入](https://www.luogu.com.cn/team/74847)|[WOT-M(WuhuOITeam-Math)](https://www.luogu.com.cn/team/75244)|[前WOT](https://www.luogu.com.cn/team/56436)|[WOT-A（已废除）](https://www.luogu.com.cn/team/58129)|[作业](https://www.luogu.com.cn/training/464275)
+[现团](https://www.luogu.com.cn/team/77751)|[WOT-M(WuhuOITeam-Math)](https://www.luogu.com.cn/team/75244)|[前WOT](https://www.luogu.com.cn/team/56436)|[作业](https://www.luogu.com.cn/training/464275)
 
 ## 大管理名单
 
