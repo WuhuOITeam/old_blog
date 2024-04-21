@@ -1,6 +1,6 @@
 # Project Information
 site_name: WOT's site
-site_description: WuhuOITeam
+site_description: Wuhu OI Team's site
 site_author: Wuhu OI Team
 site_url: https://wuhuoiteam.github.io
 strict: false
@@ -14,12 +14,14 @@ copyright: 'Copyright &copy; 2024 - 2024 WOT'
 
 # Contents
 nav:
-  - 主页: index.md
+  - 主页: 
+    - 主页: index.md
+    - 新用户必读: basic/新用户必读.md 
   - 信息: 
     - 新用户必读: basic/新用户必读.md 
     - 前世今生: basic/history.md
     - TPCpp事变: basic/20240406事变.md
-  - 规则:
+  - 说明:
     - 首页: rules/index.md
     - 公开团主: rules/owner.md
     - 日报渐渐: rules/daily-post.md
@@ -27,10 +29,9 @@ nav:
     - 管理员守则: rules/admin.md
     - 大管理: rules/sadmin.md
   - 日报:
-    - 首页: rules/index.md
+    - 首页: daily/index.md
     - 2024日报:
       - 第1期: daily/2024/1.md
-    
   - 文件存档:
     - 20240203文件: back/20240203.md
     - 20240204文件: back/20240204.md
