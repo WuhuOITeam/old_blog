@@ -20,19 +20,15 @@ nav:
   - 信息: 
     - 新用户必读: basic/新用户必读.md 
     - 前世今生: basic/history.md
-    - TPCpp事变: basic/20240406事变.md
-  - 说明:
-    - 首页: rules/index.md
-    - 公开团主: rules/owner.md
-    - 日报渐渐: rules/daily-post.md
-    - 小组规则(现无规则): rules/group.md
-    - 管理员守则: rules/admin.md
-    - 大管理: rules/sadmin.md
+    - 日报: basic/daily-post.md
   - 日报:
     - 首页: daily/index.md
     - 2024日报:
       - 第1期: daily/2024/1.md
+      - 第2期: daily/2024/2.md
+      - 第3期: daily/2024/3.md
   - 文件存档:
+    - 首页: back/index.md
     - 20240203文件: back/20240203.md
     - 20240204文件: back/20240204.md
     - 20240205文件: back/20240205.md
@@ -45,6 +41,7 @@ nav:
     - 20240409文件: back/20240409.md
     - 20240410文件: back/20240410.md
     - 20240412文件: back/20240412.md
+    - 20240630文件: back/20240630.md
 # Theme
 theme:
   name: material
@@ -95,12 +92,16 @@ extra:
     provider: google
     property: UA-124485594-1
 
-extra_javascript:
-  - '_static/js/math-csr.js?math-csr'
-  - 'assets/vendor/mathjax/es5/tex-mml-chtml.js?math-csr'
-
 extra_css:
-  - '_static/css/extra.css?v=14'
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/katex.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 
 # Extensions
 markdown_extensions:
