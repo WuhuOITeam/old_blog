@@ -16,8 +16,6 @@ WOT 即 Wuhu OI Team,顾名思义,就是「芜湖信奥赛团队」.
 
 ## 大管理名单
 
-@[da_ke](https://www.luogu.com.cn/user/766675)
-
-@[lsr_czz](https://www.luogu.com.cn/user/1238611)
-
-@[public_sicke](https://www.luogu.com.cn/user/1002529)
+- @[da_ke](https://www.luogu.com.cn/user/766675)
+- @[zsh_haha](https://www.luogu.com.cn/user/757139)
+- @[public_sicke](https://www.luogu.com.cn/user/1002529)

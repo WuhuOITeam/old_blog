@@ -17,6 +17,7 @@ nav:
   - 主页: 
     - 主页: index.md
     - 新用户必读: basic/新用户必读.md 
+    - 《WOT 规章》: back/20240712.md
   - 信息: 
     - 新用户必读: basic/新用户必读.md 
     - 前世今生: basic/history.md
@@ -26,7 +27,6 @@ nav:
     - 2024日报:
       - 第1期: daily/2024/1.md
       - 第2期: daily/2024/2.md
-      - 第3期: daily/2024/3.md
   - 文件存档:
     - 首页: back/index.md
     - 20240203文件: back/20240203.md
@@ -42,6 +42,7 @@ nav:
     - 20240410文件: back/20240410.md
     - 20240412文件: back/20240412.md
     - 20240630文件: back/20240630.md
+    - 20240712文件: back/20240712.md
 # Theme
 theme:
   name: material
