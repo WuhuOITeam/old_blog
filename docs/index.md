@@ -1,21 +1,57 @@
-# Welcome to WOT
+[WOT 规章](https://wuhuoiteam.github.io/back/20240712/)
 
-欢迎来到 WOT!
+[官网](https://wuhuoiteam.github.io)|[学术团](https://www.luogu.com.cn/team/75244)|[整活留言条](https://note.ms/wot)|[整活聊天室](https://amemei-lists-chat-room.hf.space/room/@WOT)|[WOT 礼堂](https://amemei-lists-chat-room.hf.space/room/@WOThall)|
 
-WOT 即 Wuhu OI Team,顾名思义,就是「芜湖信奥赛团队」.
+团徽：
 
-最初, [前WOT](https://www.luogu.com.cn/team/56436) 于 2023/3/5 由 [达克](https://mahaoming2022.github.io) 创立.
+![](https://cdn.luogu.com.cn/upload/usericon/1011260.png)
 
-常用链接: $now$
+团旗:
 
-[现团](https://www.luogu.com.cn/team/77751)|[WOT-M(WuhuOITeam-Math)](https://www.luogu.com.cn/team/75244)|[前WOT](https://www.luogu.com.cn/team/56436)|[作业](https://www.luogu.com.cn/training/464275)
+![](https://cdn.luogu.com.cn/upload/image_hosting/b8o9yg5i.png)
 
-## 现任团主
+## 名单
 
-@[da_ke](https://www.luogu.com.cn/user/766675)
+```
+@da_ke 
+@fp0cy1tz6mn4rd_ 
+@lsr_czz 
+@cn_haha 
+@菜のcrzOvO
+
+@zsh_haha 
+@MasonXu 
+@ZengYilin_Lean 
+@yzwfq2000 
+@IOI_ILJYT 
+
+@zhang_Jimmy 
+@carlxj 
+@rock_god 
+@wangsitan 
+@Max_hmt 
+
+@NIKEAJ 
+@Euclid_llq 
+```
+
+非活跃/不看团成员：
+
+```
+@WA_Coding_Duck
+@User904032
+@very_hard
+@hello141219
+@zhaoqiyou
+@shredded_beef_qwq 
+@zhangenning_LOVE_MC
+@zhangzeyao20110507
+@yuguoyu
+@zhangzirui66 
+```
 
 ## 大管理名单
 
+- @[@fp0cy1tz6mn4rd_ ](https://www.luogu.com.cn/user/1002529)
 - @[da_ke](https://www.luogu.com.cn/user/766675)
 - @[zsh_haha](https://www.luogu.com.cn/user/757139)
-- @[public_sicke](https://www.luogu.com.cn/user/1002529)
